@@ -1,6 +1,6 @@
 # ✉️ Email Subject Line Performance Predictor
 
-Predict whether an email subject line will get opened—using NLP, classification modeling, and good old marketing instincts. Built entirely in Google Colab with no APIs or external dependencies.
+Predict whether an email subject line will get opened—using NLP, classification modeling, and good old marketing instincts. 
 
 ---
 
